@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## ScreenShots
+
+![Copy of Untitled Design](https://github.com/Jeet-programmer/SushiShop/assets/77581157/f423b4c8-d3ee-4f0f-8a90-3d69cbb68d1c)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
